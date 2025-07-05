@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **technology, coding, an
 - 🔭 I’m currently working on **improving my skills in shell scripting, cloud technologies.**
 - 🌱 I’m currently learning **DevOps, advanced Bash scripting, and aws.**
 - 💬 Ask me about **Linux, Shell scripting, cloud, and anything tech-related!**
--  📫 How to reach me: **ayushsharma.octen@gmail.com** or connect on **[.....](https://www.linkedin.com/in/ayush-sharma-46b234372/)**
+-  📫 How to reach me: **ayushsharma.octen@gmail.com** or connect on **[LinkedIn](https://www.linkedin.com/in/ayush-sharma-46b234372/)**
 - ⚡ Fun fact: I love solving problems and automating boring tasks! 😄
 
 ## 🔧 Tech Stack
